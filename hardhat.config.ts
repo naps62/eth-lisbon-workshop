@@ -29,7 +29,7 @@ const config: HardhatUserConfig = {
   },
   gasReporter: {
     currency: "ETH",
-    gasPrice: 135,
+    gasPrice: 100,
   },
 };
 
